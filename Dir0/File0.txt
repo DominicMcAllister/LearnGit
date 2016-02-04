@@ -1,8 +1,10 @@
 This is file number: 0
 This is line 2;
 this is line 3;
+<some middle changes>
 this is the final line.
 arrrrrggggg.
 Here are some changes
 for line 3
 of this file
+yet more changes
